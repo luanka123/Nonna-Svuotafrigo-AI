@@ -58,7 +58,6 @@ Non richiede installazione: funziona direttamente dal browser, su qualsiasi disp
 - 🌐 **Apri la Web App:** [https://svuotafrigo-ai.web.app](https://svuotafrigo-ai.web.app)  
 - 🏠 **Visita la Landing Page:** [https://svuotafrigo.lovable.so](https://svuotafrigo.lovable.so)  
 
-*(Sostituisci con i link reali quando saranno attivi.)*
 
 ---
 
