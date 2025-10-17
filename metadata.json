@@ -1,0 +1,7 @@
+{
+  "name": "Nonna Svuotafrigo AI",
+  "description": "An AI-powered cookbook that helps you empty your fridge by intelligently selecting the best combination of your ingredients to suggest authentic and delicious Italian recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
