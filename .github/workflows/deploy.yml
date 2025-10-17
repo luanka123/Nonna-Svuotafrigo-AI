@@ -27,6 +27,8 @@ jobs:
           cache: 'npm'
       - name: Install deps
         run: npm install
+      - name: Create .env for Vite
+        run: echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> .env
       - name: Build
         run: npm run build
       - name: Upload artifact
