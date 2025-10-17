@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
     // 👇 AGGIUNGI QUESTA RIGA con il nome ESATTO del repo:
-    base: '/NOME-REPO/',  // es: '/Nonna-Svuotafrigo-IA/'
+    base: '/Nonna-Svuotafrigo-AI/',
 
     server: {
       port: 3000,
